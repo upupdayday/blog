@@ -1,4 +1,4 @@
-<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 从URL输入到页面实现
 
