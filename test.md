@@ -1,4 +1,6 @@
-<meta charset="utf-8">
+<head>
+<meta charset="UTF-8">
+</head>
 从URL输入到页面实现
 
 简单来说，这是一个数据请求和展示的过程。而这个过程可以划分为以下几个步骤：
