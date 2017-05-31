@@ -21,13 +21,13 @@
 当浏览器完成域名解析获得了IP地址后，想服务器发送数据请求。
 服务器接收到用户的请求后，进行交给相应的网站代码进行处理，网站代码运行得到结果后，由服务器反馈给用户。
 示意图如下：
-![](http://github.com/upupdayday/blog/images/image1.jpg)
+![](https://raw.githubusercontent.com/upupdayday/blog/master/images/image1.jpg)
 图片引用自[“从URL输入到页面展现by若愚@饥人谷”](http://book.jirengu.com/jrg-team/frontend-knowledge-ppt/www/%E5%89%8D%E7%AB%AF%E5%85%A5%E9%97%A8-%E4%BB%8E%20URL%E8%BE%93%E5%85%A5%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%B1%95%E7%8E%B0.html#/)
 
 ##网站处理流程
 
 网站的代码主要分为三部分：MVC 模型(model)-视图(view)-控制器(controller)，如下所示：
-![](http://github.com/upupdayday/blog/images/image2.jpg)
+![](https://raw.githubusercontent.com/upupdayday/blog/master/images/image2.jpg)
 图片引用自[“从URL输入到页面展现by若愚@饥人谷”](http://book.jirengu.com/jrg-team/frontend-knowledge-ppt/www/%E5%89%8D%E7%AB%AF%E5%85%A5%E9%97%A8-%E4%BB%8E%20URL%E8%BE%93%E5%85%A5%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%B1%95%E7%8E%B0.html#/)
 
 - 网站代码首先对请求进行路由匹配；
